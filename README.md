@@ -16,15 +16,15 @@ So, I have explored a bit of Software Development till now - its been 3 years an
 # 💻 Software Development Core Keywords
 
 ### 🎯 DSA & Competitive Programming
-1. Data Structures (Arrays, LinkedList, Trees, Graphs, Heaps, Tries)  
-2. Algorithms (Sorting, Searching, Dynamic Programming, Greedy, Backtracking)  
+1. Data Structures (Arrays, LinkedList, Trees, Graphs, Heaps, Tries, etc.)  
+2. Algorithms (Sorting, Searching, Dynamic Programming, Greedy, Backtracking, etc.)  
 3. Time & Space Complexity Analysis  
 4. Problem Solving Patterns  
 5. Learning Logic Buidling and Problem Solving Mentality  
 6. **Platforms:** LeetCode, Codeforces, CodeChef, HackerRank, AtCoder  
 
 ### 🧠 Core of Computer Science
-1. Networking (TCP/IP, UDP, DNS, HTTP/HTTPS, WebSockets)  
+1. Networking (TCP/IP, UDP, DNS, SMTP, HTTP/HTTPS, WebSockets)  
 2. Operating Systems (Processes, Threads, Memory Management, File Systems)  
 3. Bits, Bytes & Low-Level Systems  
 4. Computer Architecture  
