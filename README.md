@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-Hi, I am **Aryan Tomar**. Today is 1st December 2025, and I am 21 years old (turning 22 in a month). I graduated with a B. Tech. in CSE (4-year program) in August 2025, and I am a Software Developer by profession.
+Hi, I am **Aryan Tomar**. Today is 1st December 2025 when I am creating this Repo, and right now I am 21 years old (turning 22 in a month). I graduated with a B. Tech. in CSE (4-year program) in August 2025, and I am a Software Developer by profession.
 
 Software development is really vast, really really vast. I started seriously exploring it consciously and curiously on my own from September 2022 when I was 18 years old and I was in the 2nd year of my Engineering, I still remember it was 2nd Month of my 2nd year's 1st sem - the OG **Sept. 2022** - I changed my approach towards life that day when I finally decided to pursue CSE seriously, when I finally decided to earn money seriously and become independant. 
 
