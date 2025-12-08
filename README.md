@@ -9,11 +9,22 @@ I didn't even know what a variable in programming langauge meant until September
 
 # 🎯 Purpose of This Repo
 
-So, I have explored a bit of Software Development till now - its been 3 years and 2 months now since I have been exploring software development, and it is very vast. I just want to categorize the keywords of core software development which I have explored till this date as a software developer. These keywords help me zoom out from my current learnings and they help me visualize the working of the Software Development field as I see the bigger picture.
+So, I have explored a bit of Software Development till now - its been 3 years and 2 months now (1st December 2025) since I have been exploring software development, and it is very vast. I just want to categorize the keywords of core software development which I have explored till this date as a software developer. These keywords help me zoom out from my current learnings and they help me visualize the working of the Software Development field as I see the bigger picture. I will only mention the main keywords in these lists, but all the sections aren't just limited to these main keywords, in reality each section individually has dozens of keywords in it.  
 
 
 
 # 💻 Software Development Core Keywords
+
+### 🔢 Basic Mathematics for DSA & CP
+1. Number Theory (Prime Numbers, GCD, LCM, Modular Arithmetic)  
+2. Arithmetic & Geometric Progressions (AP & GP)  
+3. Sum of Natural Numbers, Squares & Cubes  
+4. Combinatorics (Permutations, Combinations, Binomial Coefficients)  
+5. Matrix Operations & Linear Algebra Basics  
+6. Bitwise Operations & Bit Manipulation  
+7. Sieve of Eratosthenes  
+8. Factorial    
+9. Graph Theory Mathematics (Euler's Path, Hamiltonian Path)  
 
 ### 🎯 DSA & Competitive Programming
 1. Data Structures (Arrays, LinkedList, Trees, Graphs, Heaps, Tries, etc.)  
